@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="GestorDeVacaciones.View.UserControls.VacacionesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GestorDeVacaciones.View.UserControls"
+             mc:Ignorable="d" Background="White" d:DesignHeight="450" d:DesignWidth="800">
+    
+
+
+
+
+    <Grid>
+        <Label Content="Dias pendientes:" HorizontalAlignment="Left" Margin="36,26,0,0" VerticalAlignment="Top"/>
+        <Button Command="" Content="Solicitar" Margin="64,0,0,43" Height="57" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="172" Click="solicitarVacas"/>
+        <Label x:Name="diasPendientes" Content="{Binding DiasQueQuedan,Mode=TwoWay}" HorizontalAlignment="Left" Margin="136,10,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="4" Margin="138,54,0,0" Stroke="Black" VerticalAlignment="Top" Width="84" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-43.634"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Label Content="30" HorizontalAlignment="Left" Margin="173,51,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <local:CalendarControl x:Name="calControl" Margin="338,77,29,43"/>
+        <Button Content="Individual" Margin="338,39,0,0" Height="33" VerticalAlignment="Top" HorizontalAlignment="Left" Width="105"/>
+        <Button Content="Grupal" Margin="448,39,0,0" Height="33" VerticalAlignment="Top" HorizontalAlignment="Left" Width="105" Click="abrirCalendarGrupal"/>
+
+
+
+
+
+        <Button Content="&gt;" Margin="0,39,29,0" Height="27" VerticalAlignment="Top" Padding="0" HorizontalAlignment="Right" Width="18" Click="boton_añoAdelante"/>
+        <Button Content="&lt;" Margin="0,39,95,0" Height="27" Padding="0" HorizontalAlignment="Right" Width="18" VerticalAlignment="Top" Click="boton_añoAtras"/>
+        <TextBlock x:Name="txtAño" Text="{Binding ElementName=calControl, Path=AñoSeleccionado,Mode=TwoWay}" Margin="0,39,47,0" HorizontalAlignment="Right" Width="44" Height="24" VerticalAlignment="Top" RenderTransformOrigin="0.603,0.406" FontSize="18"/>
+        <ListBox ItemsSource="{Binding ElementName=calControl, Path=ListaDiasSeleccionados}" HorizontalContentAlignment="Stretch" BorderThickness="1" HorizontalAlignment="Left" Margin="36,125,0,144" Width="250" BorderBrush="#FFDAD7D7" Background="Transparent">
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="Padding" Value="0,5,2,0"/>
+                    <Setter Property="Margin" Value="0,5,2,0"/>
+                </Style>
+            </ListBox.ItemContainerStyle>
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel IsItemsHost="True" Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+
+
+                    <TextBlock Text="{Binding diaFormato}" />
+
+
+
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+
+
+
+        </ListBox>
+    </Grid>
+</UserControl>

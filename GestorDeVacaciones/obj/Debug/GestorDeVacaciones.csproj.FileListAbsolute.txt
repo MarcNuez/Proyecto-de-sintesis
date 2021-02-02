@@ -1,0 +1,196 @@
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\GestorDeVacaciones.exe.config
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\GestorDeVacaciones.exe
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\GestorDeVacaciones.pdb
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\EntityFramework.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\MaterialDesignColors.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Buffers.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Collections.Immutable.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Memory.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Numerics.Vectors.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Windows.Interactivity.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\EntityFramework.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\MaterialDesignColors.pdb
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Buffers.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Collections.Immutable.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Memory.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Numerics.Vectors.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\CalendarioGrupalView.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\EditarPerfilView.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\LoginView.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\MenuPrincipalView.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\AusenciasView.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\CalendarControl.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\GestorAdminView.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\VacacionesView.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\App.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones_MarkupCompile.cache
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones_MarkupCompile.lref
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\CalendarioGrupalView.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\EditarPerfilView.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\LoginView.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\MenuPrincipalView.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\AusenciasView.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\CalendarControl.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\GestorAdminView.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\VacacionesView.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.g.resources
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.Migrations.Inicial.resources
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.Properties.Resources.resources
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.csproj.GenerateResource.cache
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.csproj.CoreCompileInputs.cache
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.csproj.CopyComplete
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.exe
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.pdb
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.csprojAssemblyReference.cache
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\CalendarioGrupalVacas.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\UserControls\CalendarioGrupalVacas.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\Dialogs\DialogGestionAdminAprobarDenegar.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\Dialogs\DialogGestionAdminAprobarDenegar.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\AusenciasGestionAdminView.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\AusenciasGestionAdminView.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\Dialogs\DialogGARetirarAprobada.g.cs
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\View\Dialogs\DialogGARetirarAprobada.baml
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.Migrations.actualizadoDiaElegidosDenegado.resources
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\ProyectDam\GestorDeVacaciones\GestorDeVacaciones\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\GestorDeVacaciones.exe.config
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\GestorDeVacaciones.exe
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\GestorDeVacaciones.pdb
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\EntityFramework.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\EntityFramework.SqlServer.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\MaterialDesignColors.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Options.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Buffers.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Collections.Immutable.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.ComponentModel.Annotations.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Memory.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Numerics.Vectors.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Windows.Interactivity.dll
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\EntityFramework.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\EntityFramework.SqlServer.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\MaterialDesignColors.pdb
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Options.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Buffers.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Collections.Immutable.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Memory.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Numerics.Vectors.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.csprojAssemblyReference.cache
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\AusenciasGestionAdminView.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\CalendarioGrupalView.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\Dialogs\DialogGARetirarAprobada.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\Dialogs\DialogGestionAdminAprobarDenegar.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\EditarPerfilView.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\LoginView.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\MenuPrincipalView.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\AusenciasView.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\CalendarControl.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\CalendarioGrupalVacas.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\GestorAdminView.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\VacacionesView.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\App.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones_MarkupCompile.cache
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones_MarkupCompile.lref
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\AusenciasGestionAdminView.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\CalendarioGrupalView.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\Dialogs\DialogGARetirarAprobada.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\Dialogs\DialogGestionAdminAprobarDenegar.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\EditarPerfilView.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\LoginView.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\MenuPrincipalView.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\AusenciasView.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\CalendarControl.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\CalendarioGrupalVacas.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\GestorAdminView.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\View\UserControls\VacacionesView.baml
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.g.resources
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.Migrations.Inicial.resources
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.Migrations.actualizadoDiaElegidosDenegado.resources
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.Properties.Resources.resources
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.csproj.GenerateResource.cache
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.csproj.CoreCompileInputs.cache
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.csproj.CopyComplete
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.exe
+D:\carpeta personal\porsilasmoscasseborra\GestorDeVacaciones_primer\GestorDeVacaciones\obj\Debug\GestorDeVacaciones.pdb
